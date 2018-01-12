@@ -22,3 +22,4 @@ Include two buttons, labeled "Women" and "Men", above the interactive that toggl
 When you're ready to submit your assessment, send a pull request from your repository.
 
 
+**This assessment is to measure applicants’ understanding of data visualization. No candidate files will be used for production purposes.**
