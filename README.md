@@ -8,7 +8,7 @@ Create a map of the United States of America using **data-states.csv**. Each sta
 Additionally, when a user hovers states, a tooltip should appear displaying information from the columns "State", "Percent of Population", "Median Household Income" and "Percent of Income".
 
 #### Example
-![Example Map](/example-map.png)
+![Example Map](https://api.frac.tl/cdn/images/example-map.png)
 
 ## Part 2: Chart
 Create two side-by-side pie charts using **data-gender-age.csv**. Each chart should represent the two age groups found in the "Age" column. Each pie chart division should be based on the "Preparedness" column while the value for each division should be the "Percent Value" column.
@@ -16,7 +16,7 @@ Create two side-by-side pie charts using **data-gender-age.csv**. Each chart sho
 Include two buttons, labeled "Women" and "Men", above the interactive that toggle the displayed gender data with "Women" set as the default dataset. 
 
 #### Example
-![Example Chart](/example-chart.png)
+![Example Chart](https://api.frac.tl/cdn/images/example-chart.png)
 
 ## Submitting Your Code
 When you're ready to submit your assessment, send a pull request from your repository.
