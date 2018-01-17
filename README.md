@@ -1,6 +1,6 @@
 # Front End Web Developer Assessment
 
-Using the data provided in this repo, you will be creating two **responsive** and interactive assets using **HTML, CSS, and JavaScript**.
+Using the data provided in this repo, you will be creating two **responsive** and interactive assets using **HTML, CSS, and JavaScript**. Feel free to use any CSS or JS libraries to complete the assessment. Don’t be afraid to flex your creativity to make the interactives visually impressive. 
 
 ## Part 1: Map
 Create a map of the United States of America using **data-states.csv**. Each state should be shaded or colored according to the "Percent of Population" column. 
